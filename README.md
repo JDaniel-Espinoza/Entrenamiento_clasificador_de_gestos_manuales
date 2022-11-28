@@ -1,1 +1,1 @@
-# modelos para el reconocimiento de gestos
+# Modelos para el reconocimiento de gestos
