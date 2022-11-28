@@ -1,1 +1,1 @@
-# instrumentaci-n-c-digos
+# modelos para el reconocimiento de gestos
